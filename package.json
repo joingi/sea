@@ -1,0 +1,22 @@
+{
+  "name": "sea",
+  "version": "1.0.0",
+  "description": "seafood source experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joingi/sea.git"
+  },
+  "author": "Johann ingi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joingi/sea/issues"
+  },
+  "homepage": "https://github.com/joingi/sea#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
